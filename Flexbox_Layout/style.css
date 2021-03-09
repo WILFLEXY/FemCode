@@ -4,6 +4,8 @@
     box-sizing: border-box;
 }
 
+/*Part 1* begins here*/
+
 .part1 {
 border: 2px solid black;
 width: 600px;
@@ -47,4 +49,58 @@ background-color: cadetblue;
     height: 100px;
     margin: 10px;
     background-color: darkorange;
+}
+
+/*Part 1 ends here*/
+
+/*Part 2 begins here*/
+
+.part2 {
+    border: 2px solid black;
+    width: 600px;
+    height: 600px;
+    margin: 100px;
+  
+}
+
+.header2 {
+    border-bottom: 2px solid black;
+}
+
+.container2 {
+    display: flex;
+    width: 550px;
+    height: 550px;
+    margin: 15px;
+    flex-wrap: wrap;
+    align-items: center;
+
+}
+
+.long2 {
+    border: 2px solid black;
+    height: 100px;
+    width: 532px;
+    margin: 6px;
+    background-color: indigo;
+}
+
+.large {
+    border: 2px solid black;
+    width: 170px;
+    height: 410px;
+    margin: 6px;
+
+}
+
+.red {
+    background-color:red;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
 }
